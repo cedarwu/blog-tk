@@ -1,256 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Cedar]]></title>
-  <subtitle><![CDATA[A lovely coder ~]]></subtitle>
+  <title>Cedar</title>
+  <subtitle>A lovely coder ~</subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://www.cedar.tk/"/>
-  <updated>2014-10-29T14:41:11.216Z</updated>
-  <id>http://www.cedar.tk/</id>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-02-21T07:31:07.882Z</updated>
+  <id>http://yoursite.com/</id>
   
   <author>
-    <name><![CDATA[cedar]]></name>
-    <email><![CDATA[cedarty@gmail.com]]></email>
+    <name>cedar</name>
+    <email>cedarty@gmail.com</email>
   </author>
   
-  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[服装标准尺码对照表]]></title>
-    <link href="http://www.cedar.tk/2014/10/%E6%9C%8D%E8%A3%85%E6%A0%87%E5%87%86%E5%B0%BA%E7%A0%81%E5%AF%B9%E7%85%A7%E8%A1%A8/"/>
-    <id>http://www.cedar.tk/2014/10/服装标准尺码对照表/</id>
-    <published>2014-10-29T14:31:10.000Z</published>
-    <updated>2014-10-29T14:40:42.000Z</updated>
-    <content type="html"><![CDATA[<p>男装标准尺码对照表:<br><img src="/img/尺码/男装标准尺码对照表.png" alt=""><br><a id="more"></a><br>男裤标准尺码对照表:<br><img src="/img/尺码/男裤标准尺码对照表.png" alt=""></p>
-<p>男式衬衫尺码对照表:<br><img src="/img/尺码/男式衬衫尺码对照表.png" alt=""></p>
-<p>男式西服尺码对照表:<br><img src="/img/尺码/男式西服尺码对照表.png" alt=""></p>
-<p>女装标准尺码对照表:<br><img src="/img/尺码/女装标准尺码对照表.png" alt=""></p>
-<p>女裤标准尺码对照表:<br><img src="/img/尺码/女裤标准尺码对照表.png" alt=""></p>
-<p>女式衬衫尺码对照表:<br><img src="/img/尺码/女式衬衫尺码对照表.png" alt=""></p>
-<p>童装标准尺码对照表:<br><img src="/img/尺码/童装标准尺码对照表.png" alt=""></p>
-<p>文胸尺码对照表:<br><img src="/img/尺码/文胸尺码对照表.png" alt=""></p>
-<p>内裤尺码对照表:<br><img src="/img/尺码/内裤尺码对照表.png" alt=""></p>
-<p>鞋子尺码对照表:<br><img src="/img/尺码/鞋子尺码对照表.png" alt=""></p>
-]]></content>
-    <summary type="html"><![CDATA[<p>男装标准尺码对照表:<br><img src="/img/尺码/男装标准尺码对照表.png" alt=""><br>]]></summary>
+    <title>Blog moved to cedarwu.me</title>
+    <link href="http://yoursite.com/2016/02/blog-moved-to-cedarwume/"/>
+    <id>http://yoursite.com/2016/02/blog-moved-to-cedarwume/</id>
+    <published>2016-02-21T07:31:00.000Z</published>
+    <updated>2016-02-21T07:31:07.882Z</updated>
     
-      <category term="life" scheme="http://www.cedar.tk/tags/life/"/>
+    <content type="html">&lt;h2 id=&quot;Blog-has-been-moved-to-cedarwu-me&quot;&gt;&lt;a href=&quot;#Blog-has-been-moved-to-cedarwu-me&quot; class=&quot;headerlink&quot; title=&quot;Blog has been moved to cedarwu.me&quot;&gt;&lt;/a&gt;Blog has been moved to &lt;a href=&quot;http://cedarwu.me&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;cedarwu.me&lt;/a&gt;&lt;/h2&gt;</content>
     
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Blog moved to cedarwu.me]]></title>
-    <link href="http://www.cedar.tk/2014/10/blog-moved-to-cedarwume/"/>
-    <id>http://www.cedar.tk/2014/10/blog-moved-to-cedarwume/</id>
-    <published>2014-10-25T09:56:08.000Z</published>
-    <updated>2014-10-29T14:28:15.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="Blog_has_been_moved_to_cedarwu-me">Blog has been moved to <a href="http://cedarwu.me" target="_blank" rel="external">cedarwu.me</a></h2>
-]]></content>
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Blog-has-been-moved-to-cedarwu-me&quot;&gt;&lt;a href=&quot;#Blog-has-been-moved-to-cedarwu-me&quot; class=&quot;headerlink&quot; title=&quot;Blog has been moved to ced
+    
+    </summary>
     
     
   </entry>
   
   <entry>
-    <title><![CDATA[NFC-SIM (SWP) on Nexus 5]]></title>
-    <link href="http://www.cedar.tk/2014/10/NFC-SIM-(SWP)-on-Nexus-5/"/>
-    <id>http://www.cedar.tk/2014/10/NFC-SIM-(SWP)-on-Nexus-5/</id>
+    <title>东南大学接驳循环车-时刻表</title>
+    <link href="http://yoursite.com/2015/05/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%8E%A5%E9%A9%B3%E5%BE%AA%E7%8E%AF%E8%BD%A6%E6%97%B6%E5%88%BB%E8%A1%A8/"/>
+    <id>http://yoursite.com/2015/05/东南大学接驳循环车时刻表/</id>
+    <published>2015-05-11T03:11:11.000Z</published>
+    <updated>2016-02-21T07:38:37.240Z</updated>
+    
+    <content type="html">&lt;p&gt;参见bbs&lt;a href=&quot;http://bbs.seu.edu.cn/bbsdoc.php?board=JLHCampus&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;九龙湖校区&lt;/a&gt;版块&lt;br&gt;具体链接：&lt;a href=&quot;http://bbs.seu.edu.cn/bbscon.php?bid=202&amp;amp;id=193129&amp;amp;ftype=11&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://bbs.seu.edu.cn/bbscon.php?bid=202&amp;amp;id=193129&amp;amp;ftype=11&lt;/a&gt;&lt;br&gt;附 接驳循环车-时刻表:&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;/img/接驳循环车-时刻表.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/img/东南大学2015-2016学年校历.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;参见bbs&lt;a href=&quot;http://bbs.seu.edu.cn/bbsdoc.php?board=JLHCampus&quot;&gt;九龙湖校区&lt;/a&gt;版块&lt;br&gt;具体链接：&lt;a href=&quot;http://bbs.seu.edu.cn/bbscon.php?bid=202&amp;amp;id=193129&amp;amp;ftype=11&quot;&gt;http://bbs.seu.edu.cn/bbscon.php?bid=202&amp;amp;id=193129&amp;amp;ftype=11&lt;/a&gt;&lt;br&gt;附 接驳循环车-时刻表:&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="life" scheme="http://yoursite.com/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NFC-SIM (SWP) on Nexus 5</title>
+    <link href="http://yoursite.com/2014/10/NFC-SIM-(SWP)-on-Nexus-5/"/>
+    <id>http://yoursite.com/2014/10/NFC-SIM-(SWP)-on-Nexus-5/</id>
     <published>2014-10-19T12:07:07.000Z</published>
-    <updated>2014-10-29T14:24:46.000Z</updated>
-    <content type="html"><![CDATA[<blockquote>
-<p>如果你懒得看前因后果，只想找使用方法的话，请直接跳到<a href="#conclusion">总结</a></p>
-</blockquote>
-<p>作为一名联通的老用户，我一直比较关注联通。突然有一天，我在沃派南京的微信里收到一条广告：手机当卡刷，感觉萌萌哒。这条广告引起了我极大的兴趣，心里想着：期待已久的东西终于来了。于是，我顺利成为南京联通NFC-SIM的首批内测用户。<br>第二天，营业厅通知我去换卡，我带上取卡针，拿着我心爱的Nexus 5去了营业厅，换了卡，重启了手机，打开了NFC，准备充值。这时候问题来了，手机放到充值的机器上显示：未检测到卡片。然后我就开始怀疑是否需要装什么软件，可是当我看到一个个小米、索尼、三星的手机都是换了卡就直接可以充值，我就开始郁闷了，我堂堂Nexus居然会不支持，这是几个意思呀。<br><a id="more"></a><br>好吧，我不得不求助于Google了，关键词也就是标题中出现的几个词了，其中”SWP”是我在SIM卡上发现的关键词。很快，我找到几个讨论帖，一个是XDA上的帖子：<a href="http://forum.xda-developers.com/google-nexus-5/help/swp-activation-nexus-5-t2535089" target="_blank" rel="external">[Q] SWP activation on Nexus 5 ?</a>，一个是机锋论坛上的帖子：<a href="http://bbs.gfan.com/android-6901533-1-1.html" target="_blank" rel="external">Nexus5的NFC支持北京移动的NFC公交sim卡吗？</a>。后来，我还在机锋论坛上看到一个总结的帖子：<a href="http://bbs.gfan.com/android-7257347-1-1.html" target="_blank" rel="external">nexus4，5 nfc公交刷卡</a>。我仔细看了这些帖子，又另外查阅了部分资料，整理如下。<br>这里用的技术是NFC硬件卡模拟，主要需要两个硬件：NFC芯片和NFC SE(Secure Element)安全芯片。其中，SE可以放在3个物理位置：SIM, Phone 或者 SD。<br>把SE放在SIM卡中就是国内联通移动等用的方法，所用的协议叫做 SWP(<a href="http://en.wikipedia.org/wiki/Single_Wire_Protocol" target="_blank" rel="external">Single Wire Protocol</a>)，这个协议用于NFC和SIM卡之间进行通信。<br>把SE放在Phone中就是指手机本身内置了加密模块，Nexus就是采用的这个方案，据说部分三星手机也用了这个方案。<br>把SE放在SD这种方案用的很少，不多说。<br>于是，主流的NFC方案就产生了两种分歧，一种把SE放在SIM卡中，一种把SE放在手机中。把SE放在SIM卡中又称为UICC(<a href="http://en.wikipedia.org/wiki/Universal_Integrated_Circuit_Card" target="_blank" rel="external">Universal Integrated Circuit Card</a>)，把SE放在手机中又称为HCE(<a href="http://en.wikipedia.org/wiki/Host_card_emulation" target="_blank" rel="external">Host card emulation</a>)。<br>Google在Nexus中缺省使用了HCE(据说是为了推广自己的Google Wallet)，禁用了UICC，于是就导致了前面提到的不能用联通NFC-SIM的情况。好吧，那就是想办法禁用HCE，启用UICC喽。幸运的是，Google没有彻底封掉UICC，下面就是详细的修改方法：<br>前提：手机已经root<br>系统：我测试的系统为4.4.4，下面的具体修改方法也都是针对4.4.4的。不过从论坛中的信息来看，4.4.3是完全相同的，4.4.2有些许出入。<br>型号：我测试的Nexus 5为美版(D820)，国际版并未测试，理论上应该是一样的。<br>提醒：修改之前最好先进行备份<br>需要修改的文件有两个:<br>/system/etc/libnfc-brcm.conf:<br>line 78，在开头加#，也就是注释掉这句话，也就是禁用HCE</p>
-<figure class="highlight"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre><span class="preprocessor">#NFA_MAX_EE_SUPPORTED=0</span>
-</pre></td></tr></table></figure><br>line 91，在开头加#<br><figure class="highlight"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre><span class="preprocessor">#ACTIVE_SE=0x0</span>
-</pre></td></tr></table></figure><br>line 94，去掉开头的#，也就是启用UICC<br><figure class="highlight"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre><span class="attribute">ACTIVE_SE</span>=<span class="string">0xF3</span>
-</pre></td></tr></table></figure><br>在文件最后加上3行：<br><figure class="highlight"><table><tr><td class="gutter"><pre>1
-2
-3
-</pre></td><td class="code"><pre><span class="comment">######</span><span class="comment">######</span><span class="comment">######</span><span class="comment">######</span><span class="comment">######</span><span class="comment">######</span><span class="comment">######</span><span class="comment">######</span><span class="comment">######</span><span class="comment">######</span><span class="comment">###
-# Route technologies to UICC
-DEFAULT_ISODEP_ROUTE=0xF3</span>
-</pre></td></tr></table></figure><br>继续修改第二个文件<br>/system/etc/libnfc-brcm-20791b05.conf:<br>line 29，在开头加#<br><figure class="highlight"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre><span class="preprocessor">#NFA_DM_START_UP_CFG={45:CB:01:01:A5:01:01:CA:17:00:00:00:00:06:00:00:00:00:0F:00:00:00:00:E0:67:35:00:14:01:00:00:10:B5:03:01:02:FF:80:01:01:C9:03:03:0F:AB:5B:01:00:B2:04:E8:03:00:00:CF:02:02:08:B1:06:00:20:00:00:00:12:C2:02:00:C8}</span>
-</pre></td></tr></table></figure><br>line 32，去掉开头的#<br><figure class="highlight"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre><span class="constant">NFA_DM_START_UP_CFG</span>={<span class="number">45</span><span class="symbol">:CB</span><span class="symbol">:</span><span class="number">01</span><span class="symbol">:</span><span class="number">01</span><span class="symbol">:A5</span><span class="symbol">:</span><span class="number">01</span><span class="symbol">:</span><span class="number">01</span><span class="symbol">:CA</span><span class="symbol">:</span><span class="number">17</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">06</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span>0<span class="constant">F:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:E0</span><span class="symbol">:</span><span class="number">67</span><span class="symbol">:</span><span class="number">35</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">14</span><span class="symbol">:</span><span class="number">01</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">10</span><span class="symbol">:B5</span><span class="symbol">:</span><span class="number">03</span><span class="symbol">:</span><span class="number">01</span><span class="symbol">:</span><span class="number">03</span><span class="symbol">:FF</span><span class="symbol">:</span><span class="number">80</span><span class="symbol">:</span><span class="number">01</span><span class="symbol">:</span><span class="number">01</span><span class="symbol">:C9</span><span class="symbol">:</span><span class="number">03</span><span class="symbol">:</span><span class="number">03</span><span class="symbol">:</span>0<span class="constant">F:</span><span class="constant">AB</span><span class="symbol">:</span><span class="number">5</span><span class="constant">B:</span><span class="number">01</span><span class="symbol">:</span><span class="number">02</span><span class="symbol">:B2</span><span class="symbol">:</span><span class="number">04</span><span class="symbol">:E8</span><span class="symbol">:</span><span class="number">03</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:CF</span><span class="symbol">:</span><span class="number">02</span><span class="symbol">:</span><span class="number">02</span><span class="symbol">:</span>08<span class="symbol">:B1</span><span class="symbol">:</span><span class="number">06</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">20</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">00</span><span class="symbol">:</span><span class="number">12</span><span class="symbol">:C2</span><span class="symbol">:</span><span class="number">02</span><span class="symbol">:</span><span class="number">01</span><span class="symbol">:</span><span class="number">88</span>}
-</pre></td></tr></table></figure>
-
-<p>其实这两个配置文件中的注释写得非常清楚，这些配置也都是Google事先保留在这里的。不过，仔细阅读这两个文件的话，就会发现我这里修改的并不完整，还有部分UICC的配置并没有启用，但是这样的配置我用联通的NFC-SIM测试成功了。<br>附上我改好的两个文件：<a href="/files/libnfc-brcm.conf">libnfc-brcm.conf</a>，<a href="/files/libnfc-brcm-20791b05.conf">libnfc-brcm-20791b05.conf</a><br>注意：如果是用改好的文件进行替换的话，记得修改文件的权限为 rw-r-r-  (这个权限是这两个文件本来的缺省权限)，也就是所有者可读可写，组可读，其他可读。如图：<img src="/img/libnfc-brcm-permission.png" alt=""><br>由于Nexus 5缺省只在屏幕已经解锁的情况下启用NFC，当关屏或者是屏幕未解锁的情况下是刷不了公交卡的，如果需要在关屏或者屏幕未解锁的情况下刷卡的话需要修改系统里NfcNci.apk。我为了省点电，并没有做这个测试，具体的修改方法见下面的总结，有这个需求的可以尝试。<br>好了，这样就改好了，关闭NFC，重启之后再开启NFC，拿去公交地铁上测试吧。</p>
-<h3 id="总结"><a name="conclusion">总结</a></h3>
-<ol>
-<li>Nexus 5, Android 4.4.4 (其它系统请自行对照上面的说明进行修改)</li>
-<li>root</li>
-<li>备份/system/etc/libnfc-brcm.conf 和 /system/etc/libnfc-brcm-20791b05.conf</li>
-<li>修改以上两个文件，或者将这两个文件替换为我修改好的：<a href="/files/libnfc-brcm.conf">libnfc-brcm.conf</a>，<a href="/files/libnfc-brcm-20791b05.conf">libnfc-brcm-20791b05.conf</a></li>
-<li>修改以上两个文件的权限为 rw-r-r- (上面有图示)</li>
-<li>可选。如果只需要在屏幕解锁的情况下使用NFC，可跳过此步；如果需要在屏幕关闭或者未解锁的情况下使用NFC，请完成此步。<br> 6.1 备份/system/app/NfcNci.apk 和 /system/app/NfcNci.odex<br> 6.2 删除/system/app/NfcNci.odex<br> 6.3 下载<a href="/files/NfcNci.apk">NfcNci.apk</a>，替换掉系统里的/system/app/NfcNci.apk<br> 6.4 修改/system/app/NfcNci.apk文件的权限为 rw-r-r-</li>
-<li>关闭NFC，重启手机，打开NFC。</li>
-</ol>
-<hr>
-<p>后记：昨天我按照上面所写的改好之后，跑到联通校园营业厅，要求给公交卡充值。然后我把手机放上去，卡机读出来余额为50，瞬间感觉自己萌萌哒~</p>
-<p>后记2：2014-10-25，我外出坐公交，迫不及待地拿着手机，轻触刷卡机，滴….原来刷卡的声音也可以如此美妙~</p>
-<p>最后，感谢论坛以及论坛中喜欢探索的朋友们。</p>
-]]></content>
-    <summary type="html"><![CDATA[<blockquote>
-<p>如果你懒得看前因后果，只想找使用方法的话，请直接跳到<a href="#conclusion">总结</a></p>
-</blockquote>
-<p>作为一名联通的老用户，我一直比较关注联通。突然有一天，我在沃派南京的微信里收到一条广告：手机当卡刷，感觉萌萌哒。这条广告引起了我极大的兴趣，心里想着：期待已久的东西终于来了。于是，我顺利成为南京联通NFC-SIM的首批内测用户。<br>第二天，营业厅通知我去换卡，我带上取卡针，拿着我心爱的Nexus 5去了营业厅，换了卡，重启了手机，打开了NFC，准备充值。这时候问题来了，手机放到充值的机器上显示：未检测到卡片。然后我就开始怀疑是否需要装什么软件，可是当我看到一个个小米、索尼、三星的手机都是换了卡就直接可以充值，我就开始郁闷了，我堂堂Nexus居然会不支持，这是几个意思呀。<br>]]></summary>
+    <updated>2014-10-29T14:24:46.229Z</updated>
     
-      <category term="android" scheme="http://www.cedar.tk/tags/android/"/>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;如果你懒得看前因后果，只想找使用方法的话，请直接跳到&lt;a href=&quot;#conclusion&quot;&gt;总结&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;作为一名联通的老用户，我一直比较关注联通。突然有一天，我在沃派南京的微信里收到一条广告：手机当卡刷，感觉萌萌哒。这条广告引起了我极大的兴趣，心里想着：期待已久的东西终于来了。于是，我顺利成为南京联通NFC-SIM的首批内测用户。&lt;br&gt;第二天，营业厅通知我去换卡，我带上取卡针，拿着我心爱的Nexus 5去了营业厅，换了卡，重启了手机，打开了NFC，准备充值。这时候问题来了，手机放到充值的机器上显示：未检测到卡片。然后我就开始怀疑是否需要装什么软件，可是当我看到一个个小米、索尼、三星的手机都是换了卡就直接可以充值，我就开始郁闷了，我堂堂Nexus居然会不支持，这是几个意思呀。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;好吧，我不得不求助于Google了，关键词也就是标题中出现的几个词了，其中”SWP”是我在SIM卡上发现的关键词。很快，我找到几个讨论帖，一个是XDA上的帖子：&lt;a href=&quot;http://forum.xda-developers.com/google-nexus-5/help/swp-activation-nexus-5-t2535089&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;[Q] SWP activation on Nexus 5 ?&lt;/a&gt;，一个是机锋论坛上的帖子：&lt;a href=&quot;http://bbs.gfan.com/android-6901533-1-1.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Nexus5的NFC支持北京移动的NFC公交sim卡吗？&lt;/a&gt;。后来，我还在机锋论坛上看到一个总结的帖子：&lt;a href=&quot;http://bbs.gfan.com/android-7257347-1-1.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;nexus4，5 nfc公交刷卡&lt;/a&gt;。我仔细看了这些帖子，又另外查阅了部分资料，整理如下。&lt;br&gt;这里用的技术是NFC硬件卡模拟，主要需要两个硬件：NFC芯片和NFC SE(Secure Element)安全芯片。其中，SE可以放在3个物理位置：SIM, Phone 或者 SD。&lt;br&gt;把SE放在SIM卡中就是国内联通移动等用的方法，所用的协议叫做 SWP(&lt;a href=&quot;http://en.wikipedia.org/wiki/Single_Wire_Protocol&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Single Wire Protocol&lt;/a&gt;)，这个协议用于NFC和SIM卡之间进行通信。&lt;br&gt;把SE放在Phone中就是指手机本身内置了加密模块，Nexus就是采用的这个方案，据说部分三星手机也用了这个方案。&lt;br&gt;把SE放在SD这种方案用的很少，不多说。&lt;br&gt;于是，主流的NFC方案就产生了两种分歧，一种把SE放在SIM卡中，一种把SE放在手机中。把SE放在SIM卡中又称为UICC(&lt;a href=&quot;http://en.wikipedia.org/wiki/Universal_Integrated_Circuit_Card&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Universal Integrated Circuit Card&lt;/a&gt;)，把SE放在手机中又称为HCE(&lt;a href=&quot;http://en.wikipedia.org/wiki/Host_card_emulation&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Host card emulation&lt;/a&gt;)。&lt;br&gt;Google在Nexus中缺省使用了HCE(据说是为了推广自己的Google Wallet)，禁用了UICC，于是就导致了前面提到的不能用联通NFC-SIM的情况。好吧，那就是想办法禁用HCE，启用UICC喽。幸运的是，Google没有彻底封掉UICC，下面就是详细的修改方法：&lt;br&gt;前提：手机已经root&lt;br&gt;系统：我测试的系统为4.4.4，下面的具体修改方法也都是针对4.4.4的。不过从论坛中的信息来看，4.4.3是完全相同的，4.4.2有些许出入。&lt;br&gt;型号：我测试的Nexus 5为美版(D820)，国际版并未测试，理论上应该是一样的。&lt;br&gt;提醒：修改之前最好先进行备份&lt;br&gt;需要修改的文件有两个:&lt;br&gt;/system/etc/libnfc-brcm.conf:&lt;br&gt;line 78，在开头加#，也就是注释掉这句话，也就是禁用HCE&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;#NFA_MAX_EE_SUPPORTED=0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;line 91，在开头加#&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;#ACTIVE_SE=0x0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;line 94，去掉开头的#，也就是启用UICC&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;ACTIVE_SE=0xF3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;在文件最后加上3行：&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;###############################################################&amp;#10;# Route technologies to UICC&amp;#10;DEFAULT_ISODEP_ROUTE=0xF3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;继续修改第二个文件&lt;br&gt;/system/etc/libnfc-brcm-20791b05.conf:&lt;br&gt;line 29，在开头加#&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;#NFA_DM_START_UP_CFG=&amp;#123;45:CB:01:01:A5:01:01:CA:17:00:00:00:00:06:00:00:00:00:0F:00:00:00:00:E0:67:35:00:14:01:00:00:10:B5:03:01:02:FF:80:01:01:C9:03:03:0F:AB:5B:01:00:B2:04:E8:03:00:00:CF:02:02:08:B1:06:00:20:00:00:00:12:C2:02:00:C8&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;line 32，去掉开头的#&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;NFA_DM_START_UP_CFG=&amp;#123;45:CB:01:01:A5:01:01:CA:17:00:00:00:00:06:00:00:00:00:0F:00:00:00:00:E0:67:35:00:14:01:00:00:10:B5:03:01:03:FF:80:01:01:C9:03:03:0F:AB:5B:01:02:B2:04:E8:03:00:00:CF:02:02:08:B1:06:00:20:00:00:00:12:C2:02:01:88&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;其实这两个配置文件中的注释写得非常清楚，这些配置也都是Google事先保留在这里的。不过，仔细阅读这两个文件的话，就会发现我这里修改的并不完整，还有部分UICC的配置并没有启用，但是这样的配置我用联通的NFC-SIM测试成功了。&lt;br&gt;附上我改好的两个文件：&lt;a href=&quot;/files/libnfc-brcm.conf&quot;&gt;libnfc-brcm.conf&lt;/a&gt;，&lt;a href=&quot;/files/libnfc-brcm-20791b05.conf&quot;&gt;libnfc-brcm-20791b05.conf&lt;/a&gt;&lt;br&gt;注意：如果是用改好的文件进行替换的话，记得修改文件的权限为 rw-r-r-  (这个权限是这两个文件本来的缺省权限)，也就是所有者可读可写，组可读，其他可读。如图：&lt;img src=&quot;/img/libnfc-brcm-permission.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;由于Nexus 5缺省只在屏幕已经解锁的情况下启用NFC，当关屏或者是屏幕未解锁的情况下是刷不了公交卡的，如果需要在关屏或者屏幕未解锁的情况下刷卡的话需要修改系统里NfcNci.apk。我为了省点电，并没有做这个测试，具体的修改方法见下面的总结，有这个需求的可以尝试。&lt;br&gt;好了，这样就改好了，关闭NFC，重启之后再开启NFC，拿去公交地铁上测试吧。&lt;/p&gt;
+&lt;h3 id=&quot;总结&quot;&gt;&lt;a href=&quot;#总结&quot; class=&quot;headerlink&quot; title=&quot;总结&quot;&gt;&lt;/a&gt;&lt;a name=&quot;conclusion&quot;&gt;总结&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Nexus 5, Android 4.4.4 (其它系统请自行对照上面的说明进行修改)&lt;/li&gt;
+&lt;li&gt;root&lt;/li&gt;
+&lt;li&gt;备份/system/etc/libnfc-brcm.conf 和 /system/etc/libnfc-brcm-20791b05.conf&lt;/li&gt;
+&lt;li&gt;修改以上两个文件，或者将这两个文件替换为我修改好的：&lt;a href=&quot;/files/libnfc-brcm.conf&quot;&gt;libnfc-brcm.conf&lt;/a&gt;，&lt;a href=&quot;/files/libnfc-brcm-20791b05.conf&quot;&gt;libnfc-brcm-20791b05.conf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;修改以上两个文件的权限为 rw-r-r- (上面有图示)&lt;/li&gt;
+&lt;li&gt;可选。如果只需要在屏幕解锁的情况下使用NFC，可跳过此步；如果需要在屏幕关闭或者未解锁的情况下使用NFC，请完成此步。&lt;br&gt; 6.1 备份/system/app/NfcNci.apk 和 /system/app/NfcNci.odex&lt;br&gt; 6.2 删除/system/app/NfcNci.odex&lt;br&gt; 6.3 下载&lt;a href=&quot;/files/NfcNci.apk&quot;&gt;NfcNci.apk&lt;/a&gt;，替换掉系统里的/system/app/NfcNci.apk&lt;br&gt; 6.4 修改/system/app/NfcNci.apk文件的权限为 rw-r-r-&lt;/li&gt;
+&lt;li&gt;关闭NFC，重启手机，打开NFC。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;后记：昨天我按照上面所写的改好之后，跑到联通校园营业厅，要求给公交卡充值。然后我把手机放上去，卡机读出来余额为50，瞬间感觉自己萌萌哒~&lt;/p&gt;
+&lt;p&gt;后记2：2014-10-25，我外出坐公交，迫不及待地拿着手机，轻触刷卡机，滴….原来刷卡的声音也可以如此美妙~&lt;/p&gt;
+&lt;p&gt;最后，感谢论坛以及论坛中喜欢探索的朋友们。&lt;/p&gt;
+</content>
     
-      <category term="life" scheme="http://www.cedar.tk/tags/life/"/>
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;如果你懒得看前因后果，只想找使用方法的话，请直接跳到&lt;a href=&quot;#conclusion&quot;&gt;总结&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;作为一名联通的老用户，我一直比较关注联通。突然有一天，我在沃派南京的微信里收到一条广告：手机当卡刷，感觉萌萌哒。这条广告引起了我极大的兴趣，心里想着：期待已久的东西终于来了。于是，我顺利成为南京联通NFC-SIM的首批内测用户。&lt;br&gt;第二天，营业厅通知我去换卡，我带上取卡针，拿着我心爱的Nexus 5去了营业厅，换了卡，重启了手机，打开了NFC，准备充值。这时候问题来了，手机放到充值的机器上显示：未检测到卡片。然后我就开始怀疑是否需要装什么软件，可是当我看到一个个小米、索尼、三星的手机都是换了卡就直接可以充值，我就开始郁闷了，我堂堂Nexus居然会不支持，这是几个意思呀。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="android" scheme="http://yoursite.com/tags/android/"/>
+    
+      <category term="life" scheme="http://yoursite.com/tags/life/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[AutoLogin - Seu Web认证自动登录 for Android]]></title>
-    <link href="http://www.cedar.tk/2014/07/AutoLogin---Seu-Web%E8%AE%A4%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95-for-Android/"/>
-    <id>http://www.cedar.tk/2014/07/AutoLogin---Seu-Web认证自动登录-for-Android/</id>
+    <title>AutoLogin - Seu Web认证自动登录 for Android</title>
+    <link href="http://yoursite.com/2014/07/AutoLogin---Seu-Web%E8%AE%A4%E8%AF%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95-for-Android/"/>
+    <id>http://yoursite.com/2014/07/AutoLogin---Seu-Web认证自动登录-for-Android/</id>
     <published>2014-07-12T13:01:33.000Z</published>
-    <updated>2014-10-29T14:22:46.000Z</updated>
-    <content type="html"><![CDATA[<p>本校正在逐步使用web认证替代原有的bras上网方式。也就是打开指定的页面 <a href="http://w.seu.edu.cn" target="_blank" rel="external">http://w.seu.edu.cn</a> ，输入账号和密码即可以访问外网，不再需要以前复杂的bras拨号过程。<br>本人使用Android手机，每次自动连接到seu-wlan无线网之后，都需要手动打开浏览器进行web认证的登录，略显繁琐。所以写了一个Android应用，当系统连接到seu-wlan之后就自动使用已保存的账号进行登录，方便实用。<br>下载见：<a href="http://autologin.cedar.tk" target="_blank" rel="external">http://autologin.cedar.tk</a><br>源码见：<a href="https://github.com/cedarwu/AutoLogin" target="_blank" rel="external">https://github.com/cedarwu/AutoLogin</a><br>讨论见校内bbs：<a href="http://bbs.seu.edu.cn/bbstcon.php?board=Internetwork&amp;gid=6569" target="_blank" rel="external">http://bbs.seu.edu.cn/bbstcon.php?board=Internetwork&amp;gid=6569</a></p>
-]]></content>
+    <updated>2014-10-29T14:22:46.393Z</updated>
+    
+    <content type="html">&lt;p&gt;本校正在逐步使用web认证替代原有的bras上网方式。也就是打开指定的页面 &lt;a href=&quot;http://w.seu.edu.cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://w.seu.edu.cn&lt;/a&gt; ，输入账号和密码即可以访问外网，不再需要以前复杂的bras拨号过程。&lt;br&gt;本人使用Android手机，每次自动连接到seu-wlan无线网之后，都需要手动打开浏览器进行web认证的登录，略显繁琐。所以写了一个Android应用，当系统连接到seu-wlan之后就自动使用已保存的账号进行登录，方便实用。&lt;br&gt;下载见：&lt;a href=&quot;http://autologin.cedar.tk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://autologin.cedar.tk&lt;/a&gt;&lt;br&gt;源码见：&lt;a href=&quot;https://github.com/cedarwu/AutoLogin&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/cedarwu/AutoLogin&lt;/a&gt;&lt;br&gt;讨论见校内bbs：&lt;a href=&quot;http://bbs.seu.edu.cn/bbstcon.php?board=Internetwork&amp;amp;gid=6569&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://bbs.seu.edu.cn/bbstcon.php?board=Internetwork&amp;amp;gid=6569&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本校正在逐步使用web认证替代原有的bras上网方式。也就是打开指定的页面 &lt;a href=&quot;http://w.seu.edu.cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://w.seu.edu.cn&lt;/a&gt; ，输入账号和密码即可以访问外
+    
+    </summary>
     
     
-      <category term="apps" scheme="http://www.cedar.tk/tags/apps/"/>
+      <category term="android" scheme="http://yoursite.com/tags/android/"/>
     
-      <category term="android" scheme="http://www.cedar.tk/tags/android/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[东南大学校车时刻表]]></title>
-    <link href="http://www.cedar.tk/2014/07/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%A0%A1%E8%BD%A6%E6%97%B6%E5%88%BB%E8%A1%A8/"/>
-    <id>http://www.cedar.tk/2014/07/东南大学校车时刻表/</id>
-    <published>2014-07-07T17:08:54.000Z</published>
-    <updated>2014-10-29T14:22:46.000Z</updated>
-    <content type="html"><![CDATA[<p>参见bbs<a href="http://bbs.seu.edu.cn/bbsdoc.php?board=JLHCampus" target="_blank" rel="external">九龙湖校区</a>版块<br>具体链接：<a href="http://bbs.seu.edu.cn/bbscon.php?bid=202&amp;id=187166" target="_blank" rel="external">http://bbs.seu.edu.cn/bbscon.php?bid=202&amp;id=187166</a><br>附 2014春学期班车安排表:<br><a id="more"></a><br><img src="/img/校车时刻表-工作日.png" alt=""><br><img src="/img/校车时刻表-节假日.png" alt=""></p>
-]]></content>
-    <summary type="html"><![CDATA[<p>参见bbs<a href="http://bbs.seu.edu.cn/bbsdoc.php?board=JLHCampus" target="_blank" rel="external">九龙湖校区</a>版块<br>具体链接：<a href="http://bbs.seu.edu.cn/bbscon.php?bid=202&amp;id=187166" target="_blank" rel="external">http://bbs.seu.edu.cn/bbscon.php?bid=202&amp;id=187166</a><br>附 2014春学期班车安排表:<br>]]></summary>
-    
-      <category term="life" scheme="http://www.cedar.tk/tags/life/"/>
+      <category term="apps" scheme="http://yoursite.com/tags/apps/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[windows开启wifi共享]]></title>
-    <link href="http://www.cedar.tk/2014/07/windows%E5%BC%80%E5%90%AFwifi%E5%85%B1%E4%BA%AB/"/>
-    <id>http://www.cedar.tk/2014/07/windows开启wifi共享/</id>
+    <title>服装标准尺码对照表</title>
+    <link href="http://yoursite.com/2014/07/%E6%9C%8D%E8%A3%85%E6%A0%87%E5%87%86%E5%B0%BA%E7%A0%81%E5%AF%B9%E7%85%A7%E8%A1%A8/"/>
+    <id>http://yoursite.com/2014/07/服装标准尺码对照表/</id>
+    <published>2014-07-10T14:31:10.000Z</published>
+    <updated>2016-02-21T07:38:04.865Z</updated>
+    
+    <content type="html">&lt;p&gt;男装标准尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/男装标准尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;男裤标准尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/男裤标准尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;男式衬衫尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/男式衬衫尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;男式西服尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/男式西服尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;女装标准尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/女装标准尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;女裤标准尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/女裤标准尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;女式衬衫尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/女式衬衫尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;童装标准尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/童装标准尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;文胸尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/文胸尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;内裤尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/内裤尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;鞋子尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/鞋子尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;男装标准尺码对照表:&lt;br&gt;&lt;img src=&quot;/img/尺码/男装标准尺码对照表.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="life" scheme="http://yoursite.com/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>windows开启wifi共享</title>
+    <link href="http://yoursite.com/2014/07/windows%E5%BC%80%E5%90%AFwifi%E5%85%B1%E4%BA%AB/"/>
+    <id>http://yoursite.com/2014/07/windows开启wifi共享/</id>
     <published>2014-07-07T17:06:09.000Z</published>
-    <updated>2014-10-29T14:22:46.000Z</updated>
-    <content type="html"><![CDATA[<ol>
-<li>管理员身份打开cmd</li>
-<li>允许承载网络并设置网络名称和密码：<br>netsh wlan set hostednetwork mode=allow ssid=cedar key=12345678</li>
-<li>开启虚拟无线网络：<br>netsh wlan start hostednetwork</li>
-<li>设置共享：<br>网络和共享中心 - 更改适配器设置 - 右键需要共享出去的网络单击属性 - 共享 - 勾选允许其他网络用户通过此计算机的Internet连接来连接 - 选择刚刚出现的虚拟无线网络 - 一路确定</li>
-<li>设置完成后，其他设备可以连接到此wifi<a id="more"></a></li>
-<li>关闭虚拟无线网络：<br>netsh wlan stop hostednetwork</li>
-<li>再次开启虚拟无线网络只需要执行：<br>netsh wlan start hostednetwork</li>
-</ol>
-<p>其它相关命令：<br>netsh wlan show drivers<br>netsh wlan show hostednetwork</p>
-]]></content>
-    <summary type="html"><![CDATA[<ol>
-<li>管理员身份打开cmd</li>
-<li>允许承载网络并设置网络名称和密码：<br>netsh wlan set hostednetwork mode=allow ssid=cedar key=12345678</li>
-<li>开启虚拟无线网络：<br>netsh wlan start hostednetwork</li>
-<li>设置共享：<br>网络和共享中心 - 更改适配器设置 - 右键需要共享出去的网络单击属性 - 共享 - 勾选允许其他网络用户通过此计算机的Internet连接来连接 - 选择刚刚出现的虚拟无线网络 - 一路确定</li>
-<li>设置完成后，其他设备可以连接到此wifi]]></summary>
+    <updated>2014-10-29T14:22:46.496Z</updated>
     
-      <category term="system" scheme="http://www.cedar.tk/tags/system/"/>
+    <content type="html">&lt;ol&gt;
+&lt;li&gt;管理员身份打开cmd&lt;/li&gt;
+&lt;li&gt;允许承载网络并设置网络名称和密码：&lt;br&gt;netsh wlan set hostednetwork mode=allow ssid=cedar key=12345678&lt;/li&gt;
+&lt;li&gt;开启虚拟无线网络：&lt;br&gt;netsh wlan start hostednetwork&lt;/li&gt;
+&lt;li&gt;设置共享：&lt;br&gt;网络和共享中心 - 更改适配器设置 - 右键需要共享出去的网络单击属性 - 共享 - 勾选允许其他网络用户通过此计算机的Internet连接来连接 - 选择刚刚出现的虚拟无线网络 - 一路确定&lt;/li&gt;
+&lt;li&gt;设置完成后，其他设备可以连接到此wifi&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;关闭虚拟无线网络：&lt;br&gt;netsh wlan stop hostednetwork&lt;/li&gt;
+&lt;li&gt;再次开启虚拟无线网络只需要执行：&lt;br&gt;netsh wlan start hostednetwork&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其它相关命令：&lt;br&gt;netsh wlan show drivers&lt;br&gt;netsh wlan show hostednetwork&lt;/p&gt;
+</content>
     
-      <category term="windows" scheme="http://www.cedar.tk/tags/windows/"/>
+    <summary type="html">
     
-  </entry>
-  
-  <entry>
-    <title><![CDATA[seu bras for linux]]></title>
-    <link href="http://www.cedar.tk/2014/07/seu-bras-for-linux/"/>
-    <id>http://www.cedar.tk/2014/07/seu-bras-for-linux/</id>
-    <published>2014-07-07T16:40:45.000Z</published>
-    <updated>2014-10-29T14:22:46.000Z</updated>
-    <content type="html"><![CDATA[<p>本校使用bras连接外网，windows下的bras配置很简单，网络中心提供了详细的配置方法：<a href="http://nic.seu.edu.cn/s/8/t/316/55/b8/info21944.htm" target="_blank" rel="external">win7</a> <a href="http://nic.seu.edu.cn/s/8/t/316/04/85/info1157.htm" target="_blank" rel="external">xp</a> , 而且网络中心也提供了专用的拨号客户端，网址为 <a href="http://help.seu.edu.cn/" target="_blank" rel="external">http://help.seu.edu.cn/</a> ,这里也附上一份当前的最新版：<a href="http://cedarfile-cedarfile.stor.sinaapp.com/Software/Ras_SEU.zip" target="_blank" rel="external">Ras_SEU v1.1.3.2</a>。<br>可是在linux下拨bras貌似就不是那么简单的事情了，主要是因为涉及到l2tp协议的问题，下面我提供一些方法可供参考。</p>
-<ol>
-<li>bbs的<a href="http://bbs.seu.edu.cn/bbsdoc.php?board=Linux" target="_blank" rel="external">linux版块</a>上有越来越多大神的作品，方便用户进行傻瓜式地安装，比如：<br><a href="http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=39537" target="_blank" rel="external">http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=39537</a><br><a href="http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=32077" target="_blank" rel="external">http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=32077</a><br><a href="http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=18470" target="_blank" rel="external">http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=18470</a><a id="more"></a></li>
-<li>Network Manager L2TP plugin<br>Ubuntu Installation:<br>sudo apt-add-repository ppa:seriy-pr/network-manager-l2tp<br>sudo apt-get update<br>sudo apt-get install network-manager-l2tp-gnome<br>!!!!!!!!!!!!!!!!!!<br>sudo service xl2tpd stop<br>sudo update-rc.d xl2tpd disable<br>可参考：<a href="http://www.librehat.com/fedora-linux-connection-l2tp-bras-southeast-university-campus-network-guide/" target="_blank" rel="external">Fedora Linux连接l2tp（东南大学Bras校园网）指南</a></li>
-<li>如果以上方法都不能用的话，可以尝试手动编译brasd，源码见：<a href="https://github.com/zcbenz/brasd。" target="_blank" rel="external">https://github.com/zcbenz/brasd。</a></li>
-</ol>
-<p>ps:现在学校已经逐渐放弃bras，改用更加方便的web认证方式，强烈推荐。</p>
-]]></content>
-    <summary type="html"><![CDATA[<p>本校使用bras连接外网，windows下的bras配置很简单，网络中心提供了详细的配置方法：<a href="http://nic.seu.edu.cn/s/8/t/316/55/b8/info21944.htm" target="_blank" rel="external">win7</a> <a href="http://nic.seu.edu.cn/s/8/t/316/04/85/info1157.htm" target="_blank" rel="external">xp</a> , 而且网络中心也提供了专用的拨号客户端，网址为 <a href="http://help.seu.edu.cn/" target="_blank" rel="external">http://help.seu.edu.cn/</a> ,这里也附上一份当前的最新版：<a href="http://cedarfile-cedarfile.stor.sinaapp.com/Software/Ras_SEU.zip" target="_blank" rel="external">Ras_SEU v1.1.3.2</a>。<br>可是在linux下拨bras貌似就不是那么简单的事情了，主要是因为涉及到l2tp协议的问题，下面我提供一些方法可供参考。</p>
-<ol>
-<li>bbs的<a href="http://bbs.seu.edu.cn/bbsdoc.php?board=Linux" target="_blank" rel="external">linux版块</a>上有越来越多大神的作品，方便用户进行傻瓜式地安装，比如：<br><a href="http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=39537" target="_blank" rel="external">http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=39537</a><br><a href="http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=32077" target="_blank" rel="external">http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=32077</a><br><a href="http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=18470" target="_blank" rel="external">http://bbs.seu.edu.cn/bbscon.php?bid=22&amp;id=18470</a>]]></summary>
+      &lt;ol&gt;
+&lt;li&gt;管理员身份打开cmd&lt;/li&gt;
+&lt;li&gt;允许承载网络并设置网络名称和密码：&lt;br&gt;netsh wlan set hostednetwork mode=allow ssid=cedar key=12345678&lt;/li&gt;
+&lt;li&gt;开启虚拟无线网络：&lt;br&gt;netsh wlan start hostednetwork&lt;/li&gt;
+&lt;li&gt;设置共享：&lt;br&gt;网络和共享中心 - 更改适配器设置 - 右键需要共享出去的网络单击属性 - 共享 - 勾选允许其他网络用户通过此计算机的Internet连接来连接 - 选择刚刚出现的虚拟无线网络 - 一路确定&lt;/li&gt;
+&lt;li&gt;设置完成后，其他设备可以连接到此wifi
     
-      <category term="system" scheme="http://www.cedar.tk/tags/system/"/>
+    </summary>
     
-      <category term="linux" scheme="http://www.cedar.tk/tags/linux/"/>
+    
+      <category term="system" scheme="http://yoursite.com/tags/system/"/>
+    
+      <category term="windows" scheme="http://yoursite.com/tags/windows/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[windows and office activation]]></title>
-    <link href="http://www.cedar.tk/2014/07/windows-and-office-activation/"/>
-    <id>http://www.cedar.tk/2014/07/windows-and-office-activation/</id>
-    <published>2014-07-07T16:29:08.000Z</published>
-    <updated>2014-10-29T14:22:46.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://cedarfile-cedarfile.stor.sinaapp.com/Software/Windows%20Loader%20v2.2.1.zip" target="_blank" rel="external">Windows Loader v2.2.1.zip (1.62M)</a><br><a href="http://cedarfile-cedarfile.stor.sinaapp.com/Software/Office%202010%20Toolkit%202.2.3.rar" target="_blank" rel="external">Office 2010 Toolkit 2.2.3.rar (12.1M)</a><br><a href="http://cedarfile-cedarfile.stor.sinaapp.com/Software/HEU_KMS_Activator_v7.8.6.rar" target="_blank" rel="external">HEU_KMS_Activator_v7.8.6.rar (3.08M)</a><br><a href="http://cedarfile-cedarfile.stor.sinaapp.com/Software/mini-KMS_Activator_v1.051%EF%BC%88for%20Office%20and%20Win7-KMS%20%20Active%EF%BC%89.rar" target="_blank" rel="external">mini-KMS_Activator_v1.051（for Office and Win7-KMS Active）.rar (973K)</a><br><a href="http://cedarfile-cedarfile.stor.sinaapp.com/Software/mini-KMS_Activator_v1.31_Office2010_VL_ENG.rar" target="_blank" rel="external">mini-KMS_Activator_v1.051（for Office and Win7-KMS Active）.rar (0.98M)</a><br><a href="http://cedarfile-cedarfile.stor.sinaapp.com/Software/KMSAuto%20Portable%20v2.18.rar" target="_blank" rel="external">KMSAuto Portable v2.18.rar (164K)</a><br><a href="http://cedarfile-cedarfile.stor.sinaapp.com/Software/KMS_VL_ALL%203.3.2.rar" target="_blank" rel="external">KMS_VL_ALL 3.3.2.rar (133K)</a><br><a href="http://cedarfile-cedarfile.stor.sinaapp.com/Software/%EF%BC%88%E6%94%AF%E6%8C%81EFI%EF%BC%89Windows7%20OEM%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.rar" target="_blank" rel="external">（支持EFI）Windows7 OEM激活工具.rar (63.7K)</a></p>
-]]></content>
-    
-    
-      <category term="system" scheme="http://www.cedar.tk/tags/system/"/>
-    
-      <category term="windows" scheme="http://www.cedar.tk/tags/windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[online assembler for minisys32]]></title>
-    <link href="http://www.cedar.tk/2014/07/online-assembler-for-minisys32/"/>
-    <id>http://www.cedar.tk/2014/07/online-assembler-for-minisys32/</id>
-    <published>2014-07-07T16:21:55.000Z</published>
-    <updated>2014-10-29T14:22:46.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="http://asm.cedar.tk" target="_blank" rel="external">http://asm.cedar.tk</a><br>本校计算机系大四上学期有一门课为综合课程设计，主要有四个部分的工作，硬件部分需要完成CPU和接口，软件部分需要完成汇编器和IDE。这个汇编器主要用于处理minisys32的31条基本指令，我写了个IDE和汇编器的在线版，功能很基础，但也可以方便有需要的同学用一下。<br>ps:不知道现在的要求还一不一样~</p>
-]]></content>
-    
-    
-      <category term="apps" scheme="http://www.cedar.tk/tags/apps/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[vs2012+ 修改了win8的L2TP/IPSec配置]]></title>
-    <link href="http://www.cedar.tk/2014/07/vs2012+-%E4%BF%AE%E6%94%B9%E4%BA%86win8%E7%9A%84L2TPIPSec%E9%85%8D%E7%BD%AE/"/>
-    <id>http://www.cedar.tk/2014/07/vs2012+-修改了win8的L2TPIPSec配置/</id>
-    <published>2014-07-07T12:13:15.000Z</published>
-    <updated>2014-10-29T14:22:46.000Z</updated>
-    <content type="html"><![CDATA[<p>学校使用bras访问外网，bras使用的是l2tp协议。刚装上win8的时候，bras使用正常，可是安装vs2012+ 之后bras无法连接，错误789(不确定)。<br>只要修改注册表项，在·HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\Rasman\Parameters·下添加一项</p>
-<hr>
-<p>Value Name: ProhibitIpSec<br>Data Type: REG_DWORD<br>Value: 1</p>
-<hr>
-<p>参考：<a href="http://support.microsoft.com/kb/258261/en-us" target="_blank" rel="external">http://support.microsoft.com/kb/258261/en-us</a><br>另附注册表项，可直接导入：<a href="、files/patch_for_bras.reg">patch_for_bras.reg</a></p>
-]]></content>
-    
-    
-      <category term="system" scheme="http://www.cedar.tk/tags/system/"/>
-    
-      <category term="windows" scheme="http://www.cedar.tk/tags/windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello]]></title>
-    <link href="http://www.cedar.tk/2014/07/Hello/"/>
-    <id>http://www.cedar.tk/2014/07/Hello/</id>
+    <title>Hello</title>
+    <link href="http://yoursite.com/2014/07/Hello/"/>
+    <id>http://yoursite.com/2014/07/Hello/</id>
     <published>2014-07-07T11:17:42.000Z</published>
-    <updated>2014-10-29T14:22:46.000Z</updated>
-    <content type="html"><![CDATA[<p>第一篇博客，仅作测试。<br>七月七日，晴~</p>
-<p>七月七日晴 - 许慧欣：</p>
-<audio controls><br>  <source src="http://cedar-music.qiniudn.com/%E4%B8%83%E6%9C%88%E4%B8%83%E6%97%A5%E6%99%B4%20-%20%E8%AE%B8%E6%85%A7%E6%AC%A3.mp3" type="audio/mpeg"><br>  <source src="http://cedar-music.qiniudn.com/%E4%B8%83%E6%9C%88%E4%B8%83%E6%97%A5%E6%99%B4%20-%20%E8%AE%B8%E6%85%A7%E6%AC%A3.ogg" type="audio/ogg"><br>  <embed height="50" width="100" src="http://cedar-music.qiniudn.com/%E4%B8%83%E6%9C%88%E4%B8%83%E6%97%A5%E6%99%B4%20-%20%E8%AE%B8%E6%85%A7%E6%AC%A3.mp3"><br></audio>
-]]></content>
+    <updated>2014-10-29T14:22:46.403Z</updated>
+    
+    <content type="html">&lt;p&gt;第一篇博客，仅作测试。&lt;br&gt;七月七日，晴~&lt;/p&gt;
+&lt;p&gt;七月七日晴 - 许慧欣：&lt;/p&gt;
+&lt;audio controls&gt;&lt;br&gt;  &lt;source src=&quot;http://cedar-music.qiniudn.com/%E4%B8%83%E6%9C%88%E4%B8%83%E6%97%A5%E6%99%B4%20-%20%E8%AE%B8%E6%85%A7%E6%AC%A3.mp3&quot; type=&quot;audio/mpeg&quot;&gt;&lt;br&gt;  &lt;source src=&quot;http://cedar-music.qiniudn.com/%E4%B8%83%E6%9C%88%E4%B8%83%E6%97%A5%E6%99%B4%20-%20%E8%AE%B8%E6%85%A7%E6%AC%A3.ogg&quot; type=&quot;audio/ogg&quot;&gt;&lt;br&gt;  &lt;embed height=&quot;50&quot; width=&quot;100&quot; src=&quot;http://cedar-music.qiniudn.com/%E4%B8%83%E6%9C%88%E4%B8%83%E6%97%A5%E6%99%B4%20-%20%E8%AE%B8%E6%85%A7%E6%AC%A3.mp3&quot;&gt;&lt;br&gt;&lt;/audio&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;第一篇博客，仅作测试。&lt;br&gt;七月七日，晴~&lt;/p&gt;
+&lt;p&gt;七月七日晴 - 许慧欣：&lt;/p&gt;
+&lt;audio controls&gt;&lt;br&gt;  &lt;source src=&quot;http://cedar-music.qiniudn.com/%E4%B8%83%E6%9C%88%E4%B8
+    
+    </summary>
     
     
-      <category term="life" scheme="http://www.cedar.tk/tags/life/"/>
+      <category term="life" scheme="http://yoursite.com/tags/life/"/>
     
   </entry>
   

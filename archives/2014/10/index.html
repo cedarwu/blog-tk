@@ -60,20 +60,6 @@
       <ul>
       
       <li>
-      <time datetime="2014-10-29T14:31:10.000Z">10-29</time>
-      <a href="/2014/10/服装标准尺码对照表/">服装标准尺码对照表</a>
-      </li>
-  
-    
-    
-      <li>
-      <time datetime="2014-10-25T09:56:08.000Z">10-25</time>
-      <a href="/2014/10/blog-moved-to-cedarwume/">Blog moved to cedarwu.me</a>
-      </li>
-  
-    
-    
-      <li>
       <time datetime="2014-10-19T12:07:07.000Z">10-19</time>
       <a href="/2014/10/NFC-SIM-(SWP)-on-Nexus-5/">NFC-SIM (SWP) on Nexus 5</a>
       </li>
@@ -89,7 +75,7 @@
   <footer id="footer"><div class="inner"><div class="alignleft">
   <p>
   
-    &copy; 2014 cedar
+    &copy; 2016 cedar
   
   </p>
 
@@ -107,11 +93,31 @@ var disqus_shortname = 'cedarblog';
 }());
 
 
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?a05584b3744c1ec70a3fddde0edb93b7";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+(function() {
+  var xmlhttp=null;
+  if (window.XMLHttpRequest) {
+    xmlhttp=new XMLHttpRequest();
+  }
+  else if (window.ActiveXObject) {
+  	xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  if (xmlhttp!=null) {
+  	xmlhttp.open("GET","http://counter.cedar.tk",true);
+  	xmlhttp.send();
+  }
+})();
 (function() {
   var s = document.createElement('script');
   s.type = 'text/javascript';
   s.async = true;
-  s.src = '/js/count.js';
+  s.src = '/js/script.js';
   var x = document.getElementsByTagName('script')[0];
   x.parentNode.insertBefore(s, x);
   })();
